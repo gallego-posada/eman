@@ -1,0 +1,5 @@
+{
+    "faust_direct": "./data/FAUST/",
+    "faust_pool": "./data/FAUST/",
+    "tosca_direct": "./data/TOSCA/"
+}
