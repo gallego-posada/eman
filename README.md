@@ -1,6 +1,6 @@
 # Equivariant Mesh Attention Networks
 
-This repository contains the code to reproduce the experiments of **Equivariant Mesh Attention Networks**
+This repository contains the code to reproduce the experiments of [**Equivariant Mesh Attention Networks**](https://arxiv.org/abs/2205.10662).
 
 ## Running experiments
 
@@ -66,9 +66,19 @@ eman
 │   └───spiralnet.utils
 ```
 
+## Citation
+
+Please use the following snippet to cite this work:
+```
+@article{basu2022equivariant,
+      title={{Equivariant Mesh Attention Networks}}, 
+      author={Basu, Sourya and Gallego-Posada, Jose and Vigan\`o, Francesco and Rowbottom, James and Cohen, Taco},
+      year={2022},
+      journal={arXiv:2205.10662}
+}
+```
+
 ## Acknowledgements
 
 * The code for [Gauge Equivariant Mesh CNNs](https://openreview.net/forum?id=Jnspzp-oIZE) is taken from [the official GEM-CNN implementation](https://github.com/qualcomm-ai-research/gauge-equivariant-mesh-cnn).
 * The code for [SpiralNet++](SpiralNet++) comparison is taken from [the official SpiralNet++ implementation](https://github.com/sw-gong/spiralnet_plus).
-
-
