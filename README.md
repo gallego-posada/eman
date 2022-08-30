@@ -1,6 +1,6 @@
 # Equivariant Mesh Attention Networks
 
-This repository contains the code to reproduce the experiments of [**Equivariant Mesh Attention Networks**](https://arxiv.org/abs/2205.10662).
+This repository contains the code to reproduce the experiments of [**Equivariant Mesh Attention Networks**](https://openreview.net/forum?id=3IqqJh2Ycy) published in *Transactions on Machine Learning Research* (TMLR - 08/2022).
 
 ## Running experiments
 
@@ -74,7 +74,8 @@ Please use the following snippet to cite this work:
       title={{Equivariant Mesh Attention Networks}}, 
       author={Basu, Sourya and Gallego-Posada, Jose and Vigan\`o, Francesco and Rowbottom, James and Cohen, Taco},
       year={2022},
-      journal={arXiv:2205.10662}
+      month={08},
+      journal={Transactions on Machine Learning Research}
 }
 ```
 
